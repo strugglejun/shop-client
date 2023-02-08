@@ -60,7 +60,7 @@ export default {
       //     keyword:this.keyWord
       //   }
       // })
-      // 2.判断有参数时才会携带params参数(第二种写法)
+      // 2.判断有参数时才会携带params参数 否则路由跳转携带空的params参数会报错(第二种写法)
       const location ={
         name:'search'
       }
@@ -70,6 +70,9 @@ export default {
         }
       }
       this.$router.push(location)
+      // 解决重复跳转路由的错误 在进行跳转时, 指定跳转成功的回调函数或者catch捕获错误并处理错误的promise
+      // this.$router.push(location,()=>{})
+      // this.$router.push(location).catch(()=>{})
     }
   },
 

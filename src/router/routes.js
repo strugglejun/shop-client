@@ -17,11 +17,17 @@ export default [
     {
         name:'login',
         path: '/login',
-        component: Login
+        component: Login,
+        meta:{
+            isHideFooter:true
+        }
     },
     {
         name:'register',
         path: '/register',
-        component: Register
+        component: Register,
+        meta:{
+            isHideFooter:true
+        }
     }
 ]
