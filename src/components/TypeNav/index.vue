@@ -1694,7 +1694,11 @@
 
 <script>
 export default {
-    name: 'TypeNav'
+    name: 'TypeNav',
+    mounted(){
+        // 1.分发请求获取三级分类列表的异步action
+        this.$store.dispatch('getCategoryList')
+    }
 }
 </script>
 
