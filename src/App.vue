@@ -14,7 +14,13 @@ export default {
   name: 'App',
   components: {
     Header,Footer
-  }
+  },
+  mounted(){
+        // 1.分发请求获取三级分类列表的异步action
+        this.$store.dispatch('getCategoryList')
+        // 2.分发请求轮播图列表的异步action
+        this.$store.dispatch('getBannerList')
+    }
 }
 </script>
 

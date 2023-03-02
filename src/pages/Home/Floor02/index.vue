@@ -44,17 +44,17 @@
                             <img src="./images/floor-1-1.png" />
                         </div>
                         <div class="floorBanner">
-                            <div class="swiper-container" id="floor2Swiper">
+                            <div class="swiper-container" ref="swiper">
                                 <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <img src="./images/floor-1-b03.png">
+                                    </div>
                                     <div class="swiper-slide">
                                         <img src="./images/floor-1-b01.png">
                                     </div>
-                                    <!-- <div class="swiper-slide">
+                                    <div class="swiper-slide">
                                         <img src="./images/floor-1-b02.png">
                                     </div>
-                                    <div class="swiper-slide">
-                                        <img src="./images/floor-1-b03.png">
-                                    </div> -->
                                 </div>
                                 <!-- 如果需要分页器 -->
                                 <div class="swiper-pagination"></div>
@@ -93,8 +93,33 @@
 </template>
 
 <script>
+import Swiper from 'swiper'
+import 'swiper/css/swiper.css'
 export default {
-    name: 'Floor02'
+    name: 'Floor02',
+    mounted() {
+        // swiper必须在列表显示之后创建才有效果
+        // var mySwiper = new Swiper('.swiper-container', { //问题:这种方式指定轮播图的容器会影响其它组件的轮播图
+        var mySwiper = new Swiper(this.$refs.swiper, {
+            direction: 'horizontal', // 设置水平切换
+            loop: true, // 循环模式选项
+            autoplay:{
+                delay:2000, //自动轮播3秒切换一次
+                disableOnInteraction:false,//用户操作swiper之后，自动轮播不会停止
+            },
+            // 如果需要分页器
+            pagination: {
+                el: '.swiper-pagination',
+            },
+
+            // 如果需要前进后退按钮
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+
+        })
+    }
 }
 </script>
 <style lang="less" scoped>

@@ -21,12 +21,16 @@ import Floor02 from './Floor02'
 import Brand from './Brand'
 export default {
   name: 'Home',
-  components:{
-    ListContainer,TodayRecommend,Rank,Like,Floor01,Floor02,Brand
+  components: {
+    ListContainer, TodayRecommend, Rank, Like, Floor01, Floor02, Brand
+  },
+  mounted() {
+    // 3.分发今日推荐的异步action
+    this.$store.dispatch('getRecommendsList')
+    // 4.分发楼层的异步action
+    this.$store.dispatch('getFloorsList')
   }
 }
 </script>
 
-<style lang="less" scoped>
-
-</style>
+<style lang="less" scoped></style>

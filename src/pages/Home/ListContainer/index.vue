@@ -1,14 +1,15 @@
 <template>
     <div class="list-container">
         <div class="sortList clearfix">
+            
             <div class="center">
                 <!--banner轮播-->
-                <div class="swiper-container" id="mySwiper">
+                <div class="swiper-container" ref="swiper">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <img src="./images/banner1.jpg" />
                         </div>
-                        <!-- <div class="swiper-slide">
+                        <div class="swiper-slide">
                             <img src="./images/banner2.jpg" />
                         </div>
                         <div class="swiper-slide">
@@ -16,7 +17,7 @@
                         </div>
                         <div class="swiper-slide">
                             <img src="./images/banner4.jpg" />
-                        </div> -->
+                        </div>
                     </div>
                     <!-- 如果需要分页器 -->
                     <div class="swiper-pagination"></div>
@@ -110,8 +111,73 @@
 </template>
 
 <script>
+// 引入轮播图的包和样式 并配置轮播图的基础配置 swiper是一个构造函数
+import Swiper from 'swiper'
+import 'swiper/css/swiper.css'
+import { mapState } from 'vuex'
 export default {
-    name: 'ListContainer'
+    name: 'ListContainer',
+    computed: {
+        ...mapState({
+            bannerList: state => state.home.bannerList
+        })
+    },
+    mounted() {
+        // swiper必须在列表显示之后创建才有效果
+        var mySwiper = new Swiper(this.$refs.swiper, {
+            direction: 'horizontal', // 设置水平切换
+            loop: true, // 循环模式选项
+            autoplay: {
+                delay: 2000, //自动轮播3秒切换一次
+                disableOnInteraction: false,//用户操作swiper之后，自动轮播不会停止
+            },
+            // 如果需要分页器
+            pagination: {
+                el: '.swiper-pagination',
+            },
+
+            // 如果需要前进后退按钮
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+
+        })
+    },
+    watch: {
+        // 监视轮播图数据已经请求回来了 
+        // 数据变化后==>同步调用监视的回调==>最后异步更新界面
+        // watch:监视bannerList,就可以知道有数据了
+        // nextTick:界面更新后执行回调
+        bannerList() { //此时只是数据有了 但是界面还没有更新
+
+            // $nextTick(callback) 将回调延迟到下次 DOM更新循环之后执行。在修改数据之后立即使用它，然后等待DOM更新。
+            //当数据变化且页面更新完成后执行这个回调
+            this.$nextTick(() => {
+                // swiper必须在列表显示之后创建才有效果
+                // var mySwiper = new Swiper('.swiper-container', { //问题:这种方式指定轮播图的容器会影响其它组件的轮播图
+                var mySwiper = new Swiper(this.$refs.swiper, {
+                    direction: 'horizontal', // 设置水平切换
+                    loop: true, // 循环模式选项
+                    autoplay: {
+                        delay: 2000, //自动轮播3秒切换一次
+                        disableOnInteraction: false,//用户操作swiper之后，自动轮播不会停止
+                    },
+                    // 如果需要分页器
+                    pagination: {
+                        el: '.swiper-pagination',
+                    },
+
+                    // 如果需要前进后退按钮
+                    navigation: {
+                        nextEl: '.swiper-button-next',
+                        prevEl: '.swiper-button-prev',
+                    },
+
+                })
+            })
+        }
+    }
 }
 </script>
 <style lang="less" scoped>

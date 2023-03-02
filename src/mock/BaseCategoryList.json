@@ -1,0 +1,3247 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": [
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "家用电器",
+            "categoryId": 1
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "手机/运营商/数码",
+            "categoryId": 2
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "电脑/办公",
+            "categoryId": 3
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "家居/家具/家庭/厨具",
+            "categoryId": 4
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "男装/女装/童装/内衣",
+            "categoryId": 5
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "美妆/个护清洗/宠物",
+            "categoryId": 6
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "女鞋/箱包/钟表/珠宝",
+            "categoryId": 7
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "男鞋/运动/户外",
+            "categoryId": 8
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "房产/汽车/汽车用品",
+            "categoryId": 9
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "母婴/玩具乐器",
+            "categoryId": 10
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "食品/酒类/生鲜/特产",
+            "categoryId": 11
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "艺术/鲜花/绿植",
+            "categoryId": 12
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "医疗保健/计生情趣",
+            "categoryId": 13
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "图书/文娱/教育/电子书",
+            "categoryId": 14
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "全屏电视机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "教育电视",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "智慧屏",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "4k超清电视",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "电视配件",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "65英寸",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "电视",
+                    "categoryId": 1
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "运营商",
+                    "categoryId": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "手机配件",
+                    "categoryId": 3
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "摄影摄像",
+                    "categoryId": 4
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "数码配件",
+                    "categoryId": 5
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 6
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 6
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "categoryName": "合约机",
+                            "categoryId": 1
+                        },
+                        {
+                            "categoryName": "手机卡",
+                            "categoryId": 2
+                        },
+                        {
+                            "categoryName": "宽带",
+                            "categoryId": 3
+                        },
+                        {
+                            "categoryName": "充话费/流量",
+                            "categoryId": 4
+                        },
+                        {
+                            "categoryName": "中国电信",
+                            "categoryId": 5
+                        },
+                        {
+                            "categoryName": "中国移动",
+                            "categoryId": 7
+                        }
+                    ],
+                    "categoryName": "影音娱乐",
+                    "categoryId": 7
+                }
+            ],
+            "categoryName": "机票/旅游/酒店/生活",
+            "categoryId": 15
+        }
+    ],
+    "ok": true
+}

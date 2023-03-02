@@ -1,9 +1,4 @@
-//axios二次封装
-
-// 1. 配置通用的基础路径和超时
-// 2. 显示请求进度条
-// 3. 成功返回的数据不再是response, 而直接是响应体数据response.data
-// 4. 统一处理请求错误, 具体请求也可以选择处理或不处理
+// mock接口请求的封装 要拦截Ajax请求
 import axios from 'axios'
 // 引入进度条包
 import NProgress from 'nprogress'
@@ -11,8 +6,7 @@ import 'nprogress/nprogress.css'
 // 1. 配置通用的基础路径和超时
 // service是一个能发任意ajax请求的函数，当然可以作为对象使用
 const service = axios.create({
-    // baseURL: 'http://182.92.128.115/api',
-    // baseURL: '/api',
+    baseURL: '/mock',
     timeout: 20000
 })
 // 定义请求拦截器
